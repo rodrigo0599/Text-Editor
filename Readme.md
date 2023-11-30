@@ -32,7 +32,7 @@ npm run build
 npm run start:dev
 ```
 
-website live version:
+website live version: https://rodrigo-r-text-editor-e6a0771746a4.herokuapp.com/
 
 To verify correct operation, right-click on the page and select "Inspect". Navigate to the Applications tab. Under Manifest, you should see a page resembling:
 
